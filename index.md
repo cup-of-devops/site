@@ -1,5 +1,5 @@
 ## Welcome to the "cup of DevOps"
-This is a place, where we can exchange information around DevOps in a personal way.
+This is a place, where we can exchange information around DevOps in a personal way (Zoom or other similar channel).
 
 ### What is this?
 - For you this is an opportunity to talk to us and discuss any DevOps-related topic, become common or specific advice, or any other knowledge artifact, that you want.

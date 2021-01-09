@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: "Cup of DevOps"
 description: "A very nice place to talk about DevOps"
-show_downloads: "false"
+show_downloads: false
